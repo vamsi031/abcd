@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class SortinAlgos {
     public static void main(String[] args) {
-        int [] arr = {4,7,3,5,2,8};
+        int [] arr = {4,7,3,5,2};
 //        mergeSort(0,arr.length-1,arr);
       quickSort(arr,0,arr.length-1);
 //      bubbleSort(arr);
